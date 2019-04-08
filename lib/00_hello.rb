@@ -1,6 +1,6 @@
 def hello_fonction
   def say_hello
-    puts "Hello"
+    return "Hello"
 
   end
 
@@ -14,4 +14,4 @@ puts "Hello ,#{name}"
 
 
 end
-end 
+end
