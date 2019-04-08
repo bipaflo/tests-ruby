@@ -4,18 +4,14 @@ def hello_fonction
 
   end
 
-end
 
 def greet(name)
   print name
   name= gets.chomp
 
 
-puts "Hello ,#{name}";
-
-  print name
-  name= gets.chomp
+puts "Hello ,#{name}"
 
 
-puts "Hello ,#{name}";
 end
+end 

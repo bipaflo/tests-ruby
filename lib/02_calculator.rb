@@ -9,17 +9,19 @@ def substract
   print w,s,
   w=gets.chomp
   s=gets.chomps
-  puts "#{w.to_i+s}"
+  puts "#{w.to_i-s.to_i}"
 
 end
 def sum
-  S = []
+  i=0
   Sum = 0
-  S.each { |0| sum+=0 }
-
+  while i<=Sum.length
+  Sum = Sum + Sum [i].to_i
+  puts Sum
+  i+=1
 end
-def sum_1
-  S= [7]
-  Sum_1=0
-  S.each {|0| sum_1+=0}
+
+
+
+
 end
