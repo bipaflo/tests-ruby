@@ -21,7 +21,4 @@ def sum
   i+=1
 end
 
-
-
-
 end

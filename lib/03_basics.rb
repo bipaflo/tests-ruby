@@ -1,3 +1,4 @@
-def bkolinir
-  boil
+def who_is_bigger
+
+
 end
